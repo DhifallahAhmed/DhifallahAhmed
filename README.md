@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhifallahahmed&show_icons=true&locale=en&layout=compact" alt="dhifallahahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhifallahahmed&show_icons=true&locale=en" alt="dhifallahahmed" /></p>
+
 
 <!--
 **DhifallahAhmed/DhifallahAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
