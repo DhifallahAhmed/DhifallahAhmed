@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dhifallah</h1>
 <h3 align="center">A passionate IT Student from Tunisia</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **dhifallahahmed92@gmail.com**
 
