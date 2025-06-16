@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dhifallah</h1>
-<h3 align="center">A passionate IT Student from Tunisia</h3>
+<h3 align="center">A passionate IT Engineer from Tunisia</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
