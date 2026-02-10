@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub corner! I'm a Junior Software Engineer from Tunisia, passionate about crafting sleek full-stack apps, diving into Flutter mobile dev, and mastering DevOps workflows. 🚀<br><br>
+Welcome to my GitHub corner! I'm a Software Engineer from Tunisia, passionate about crafting sleek full-stack apps, diving into Flutter mobile dev, and mastering DevOps workflows. 🚀<br><br>
 
 
 ## 🌐 Socials:
